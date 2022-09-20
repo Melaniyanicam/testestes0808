@@ -1,1 +1,1 @@
-contoh isi
+contoh isi .
